@@ -2,10 +2,13 @@ import sys
 import replicate
 import json
 
+MODEL_NAME="openai/whisper"
+MODEL_VERSION="30414ee7c4fffc37e260fcab7842b5be470b9b840f2b608f5baa9bbef9a259ed"
 
 def transcribe_audio(filepath):
-    model = replicate.models.get("cjwbw/whisper")
-    return model.predict(
+    model = replicate.models.get(MODEL_NAME)
+    version = model.versions.get(MODEL_VERSION)
+    return version.predict(
         audio=open(filepath, "rb"),
         model="large",
         translate=True
