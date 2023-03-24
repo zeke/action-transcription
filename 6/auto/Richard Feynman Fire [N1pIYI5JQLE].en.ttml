@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.179" end="00:00:06.930" style="s2">the atoms like each other the different</p>
+<p begin="00:00:02.820" end="00:00:08.820" style="s2">degrees oxygen for instance in the air</p>
+<p begin="00:00:06.930" end="00:00:10.139" style="s2">would like to be next to carbon and if</p>
+<p begin="00:00:08.820" end="00:00:14.759" style="s2">they get a near each other they snap</p>
+<p begin="00:00:10.139" end="00:00:16.830" style="s2">together if they&#39;re not too close though</p>
+<p begin="00:00:14.759" end="00:00:18.390" style="s2">they repel and they go apart so they</p>
+<p begin="00:00:16.830" end="00:00:20.010" style="s2">don&#39;t know that they could snap too yet</p>
+<p begin="00:00:18.390" end="00:00:21.300" style="s2">it&#39;s just as if you had a ball it was</p>
+<p begin="00:00:20.010" end="00:00:24.029" style="s2">trying to climb a hill then there was a</p>
+<p begin="00:00:21.300" end="00:00:27.480" style="s2">hole I could go into like a volcano hole</p>
+<p begin="00:00:24.029" end="00:00:28.859" style="s2">a deep one it&#39;s rolling along it doesn&#39;t</p>
+<p begin="00:00:27.480" end="00:00:30.330" style="s2">go down in the deep hole because if it</p>
+<p begin="00:00:28.859" end="00:00:32.550" style="s2">starts to climb the hill and then rolls</p>
+<p begin="00:00:30.330" end="00:00:34.969" style="s2">away again but if your men made it go</p>
+<p begin="00:00:32.550" end="00:00:38.190" style="s2">fast enough it&#39;ll fall into the hole and</p>
+<p begin="00:00:34.969" end="00:00:40.950" style="s2">so if it sets something like wood in</p>
+<p begin="00:00:38.190" end="00:00:44.399" style="s2">oxygen there&#39;s carbon in the wood from a</p>
+<p begin="00:00:40.950" end="00:00:47.610" style="s2">tree and the oxygen comes and hits it</p>
+<p begin="00:00:44.399" end="00:00:49.890" style="s2">common but not hard enough it just goes</p>
+<p begin="00:00:47.610" end="00:00:52.289" style="s2">away again the air is always fun</p>
+<p begin="00:00:49.890" end="00:00:54.570" style="s2">nothing&#39;s happening if you can get it</p>
+<p begin="00:00:52.289" end="00:00:56.670" style="s2">faster by heating it up somehow</p>
+<p begin="00:00:54.570" end="00:00:58.710" style="s2">somewhere somehow get it started a few</p>
+<p begin="00:00:56.670" end="00:01:00.270" style="s2">of them come fast they go over the top</p>
+<p begin="00:00:58.710" end="00:01:02.789" style="s2">so to speak they come close enough of</p>
+<p begin="00:01:00.270" end="00:01:04.949" style="s2">the carbon and snap in and that gives a</p>
+<p begin="00:01:02.789" end="00:01:06.960" style="s2">lot of jiggly motion which might hit</p>
+<p begin="00:01:04.949" end="00:01:08.610" style="s2">some other atoms making those go faster</p>
+<p begin="00:01:06.960" end="00:01:11.460" style="s2">so they can climb up and bump against</p>
+<p begin="00:01:08.610" end="00:01:12.840" style="s2">other carbon atoms and they jiggle and</p>
+<p begin="00:01:11.460" end="00:01:15.390" style="s2">they make Mother&#39;s jiggle and you get a</p>
+<p begin="00:01:12.840" end="00:01:16.470" style="s2">terrible catastrophe which is one after</p>
+<p begin="00:01:15.390" end="00:01:18.210" style="s2">the other all these things are going</p>
+<p begin="00:01:16.470" end="00:01:21.090" style="s2">faster and faster and snapping in and</p>
+<p begin="00:01:18.210" end="00:01:24.990" style="s2">the whole thing is changing that</p>
+<p begin="00:01:21.090" end="00:01:26.310" style="s2">catastrophe is a fire that it&#39;s just a</p>
+<p begin="00:01:24.990" end="00:01:28.229" style="s2">way of looking at it and these things</p>
+<p begin="00:01:26.310" end="00:01:30.000" style="s2">are happening they perpetual once it</p>
+<p begin="00:01:28.229" end="00:01:32.280" style="s2">gets started it keeps on going the heat</p>
+<p begin="00:01:30.000" end="00:01:34.290" style="s2">makes the other atoms capable of</p>
+<p begin="00:01:32.280" end="00:01:36.270" style="s2">reaching to make more heat to make other</p>
+<p begin="00:01:34.290" end="00:01:39.840" style="s2">atoms and so on so this terrible</p>
+<p begin="00:01:36.270" end="00:01:41.939" style="s2">snapping is producing a lot of jiggling</p>
+<p begin="00:01:39.840" end="00:01:43.259" style="s2">and if I put with all that activity of</p>
+<p begin="00:01:41.939" end="00:01:46.259" style="s2">the atoms there and I put a cup of</p>
+<p begin="00:01:43.259" end="00:01:47.880" style="s2">coffee over that massive wood that&#39;s</p>
+<p begin="00:01:46.259" end="00:01:50.280" style="s2">doing this it&#39;s going to get a lot of</p>
+<p begin="00:01:47.880" end="00:01:54.299" style="s2">jiggling so that&#39;s what the heat of the</p>
+<p begin="00:01:50.280" end="00:01:55.680" style="s2">fire is and then of course say if you</p>
+<p begin="00:01:54.299" end="00:01:58.700" style="s2">see this is what happens we just start</p>
+<p begin="00:01:55.680" end="00:02:01.110" style="s2">to figure just go out and I wonder where</p>
+<p begin="00:01:58.700" end="00:02:02.460" style="s2">how did it get started why is it that</p>
+<p begin="00:02:01.110" end="00:02:04.409" style="s2">the woods been sitting around all this</p>
+<p begin="00:02:02.460" end="00:02:06.899" style="s2">time with the oxygen all this time and</p>
+<p begin="00:02:04.409" end="00:02:09.770" style="s2">it didn&#39;t do this earlier or something</p>
+<p begin="00:02:06.899" end="00:02:14.640" style="s2">where did I get this front</p>
+<p begin="00:02:09.770" end="00:02:16.110" style="s2">while it came from a tree and the</p>
+<p begin="00:02:14.640" end="00:02:18.420" style="s2">substance of the tree is carbon where</p>
+<p begin="00:02:16.110" end="00:02:20.640" style="s2">did that come from that comes from the</p>
+<p begin="00:02:18.420" end="00:02:22.470" style="s2">air it&#39;s carbon dioxide from the air</p>
+<p begin="00:02:20.640" end="00:02:24.660" style="s2">people look at trees and they think it</p>
+<p begin="00:02:22.470" end="00:02:26.550" style="s2">comes out of the ground the plants crawl</p>
+<p begin="00:02:24.660" end="00:02:29.400" style="s2">out of the ground but if you ask where</p>
+<p begin="00:02:26.550" end="00:02:31.110" style="s2">the substance comes you find out where</p>
+<p begin="00:02:29.400" end="00:02:33.570" style="s2">do they come from the trees come out of</p>
+<p begin="00:02:31.110" end="00:02:36.060" style="s2">the air they surely come out of there no</p>
+<p begin="00:02:33.570" end="00:02:38.010" style="s2">they come out of the air if the carbon</p>
+<p begin="00:02:36.060" end="00:02:40.800" style="s2">dioxide in the air goes into the tree</p>
+<p begin="00:02:38.010" end="00:02:44.550" style="s2">and it changes it kicking out the oxygen</p>
+<p begin="00:02:40.800" end="00:02:47.070" style="s2">and pushing the oxygen away from the</p>
+<p begin="00:02:44.550" end="00:02:49.620" style="s2">carbon and leaving the carbon substance</p>
+<p begin="00:02:47.070" end="00:02:51.990" style="s2">with water water comes out of the ground</p>
+<p begin="00:02:49.620" end="00:02:53.550" style="s2">you see only to have to get in there</p>
+<p begin="00:02:51.990" end="00:02:54.660" style="s2">came out of the air didn&#39;t did it came</p>
+<p begin="00:02:53.550" end="00:02:57.270" style="s2">down from the sky</p>
+<p begin="00:02:54.660" end="00:03:00.300" style="s2">so in fact most of a tree almost all of</p>
+<p begin="00:02:57.270" end="00:03:02.430" style="s2">the trees out of the ground outside it&#39;s</p>
+<p begin="00:03:00.300" end="00:03:04.230" style="s2">out of the air there&#39;s a little bit from</p>
+<p begin="00:03:02.430" end="00:03:08.970" style="s2">the ground some minerals and so forth</p>
+<p begin="00:03:04.230" end="00:03:11.280" style="s2">now of course I told you the oxygen and</p>
+<p begin="00:03:08.970" end="00:03:14.220" style="s2">we know the oxygen and carbon stick</p>
+<p begin="00:03:11.280" end="00:03:16.680" style="s2">together bet very tight how is it the</p>
+<p begin="00:03:14.220" end="00:03:18.420" style="s2">tree is so smart is to manage take the</p>
+<p begin="00:03:16.680" end="00:03:20.940" style="s2">carbon dioxide which is the carbon</p>
+<p begin="00:03:18.420" end="00:03:24.030" style="s2">oxygen nicely combined and undo that so</p>
+<p begin="00:03:20.940" end="00:03:27.840" style="s2">easy ah life life has some mysterious</p>
+<p begin="00:03:24.030" end="00:03:29.310" style="s2">force no the sun is shining and it&#39;s the</p>
+<p begin="00:03:27.840" end="00:03:31.680" style="s2">sunlight that comes down and knocks</p>
+<p begin="00:03:29.310" end="00:03:33.420" style="s2">these oxygen away from the carbon so it</p>
+<p begin="00:03:31.680" end="00:03:36.510" style="s2">takes sunlight to get the plant to work</p>
+<p begin="00:03:33.420" end="00:03:38.250" style="s2">and so the Sun all the time is doing the</p>
+<p begin="00:03:36.510" end="00:03:39.810" style="s2">work of separating the oxygen away from</p>
+<p begin="00:03:38.250" end="00:03:42.420" style="s2">the cob and the oxygen is some kind of</p>
+<p begin="00:03:39.810" end="00:03:44.940" style="s2">terrible by-product which it spits back</p>
+<p begin="00:03:42.420" end="00:03:46.830" style="s2">into the air and leaving the carbon and</p>
+<p begin="00:03:44.940" end="00:03:49.500" style="s2">water and stuff to make the substance of</p>
+<p begin="00:03:46.830" end="00:03:52.520" style="s2">the tree then when we take the substance</p>
+<p begin="00:03:49.500" end="00:03:55.260" style="s2">of the tree its to get the fireplace and</p>
+<p begin="00:03:52.520" end="00:03:57.930" style="s2">the is the Holy oxygen made by these</p>
+<p begin="00:03:55.260" end="00:04:00.120" style="s2">trees and all the carbon would would</p>
+<p begin="00:03:57.930" end="00:04:02.880" style="s2">much prefer to be close together again</p>
+<p begin="00:04:00.120" end="00:04:06.300" style="s2">and once you let the heat to get it</p>
+<p begin="00:04:02.880" end="00:04:07.860" style="s2">started it continues and makes an awful</p>
+<p begin="00:04:06.300" end="00:04:10.050" style="s2">lot of activity while it&#39;s going back</p>
+<p begin="00:04:07.860" end="00:04:12.000" style="s2">together again and all this nice light</p>
+<p begin="00:04:10.050" end="00:04:13.709" style="s2">and everything comes out and everything</p>
+<p begin="00:04:12.000" end="00:04:15.780" style="s2">is being undone you&#39;re going back from</p>
+<p begin="00:04:13.709" end="00:04:18.630" style="s2">carbon and oxygen back to carbon dioxide</p>
+<p begin="00:04:15.780" end="00:04:19.919" style="s2">and the light and heat that&#39;s coming out</p>
+<p begin="00:04:18.630" end="00:04:22.100" style="s2">that&#39;s the light and heat of the Sun</p>
+<p begin="00:04:19.919" end="00:04:26.100" style="s2">that went in</p>
+<p begin="00:04:22.100" end="00:04:32.100" style="s2">so it&#39;s sort of stored Sun that&#39;s coming</p>
+<p begin="00:04:26.100" end="00:04:36.440" style="s2">out when you burn it a log next question</p>
+<p begin="00:04:32.100" end="00:04:39.270" style="s2">how is it the Sun is so jiggly so hot I</p>
+<p begin="00:04:36.440" end="00:04:42.350" style="s2">got to stop somewhere I&#39;ll leave you</p>
+<p begin="00:04:39.270" end="00:04:42.350" style="s2">something to imagine</p>
+</div>
+</body>
+</tt>
